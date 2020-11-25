@@ -14,7 +14,7 @@
       </div>
       <div class="moneyleft moneyright">
         <div class="moneyname">教育豆余额</div>
-        <div class="moneynumber">123456</div>
+        <div class="moneynumber">0</div>
       </div>
     </div>
     <div class="top_up">

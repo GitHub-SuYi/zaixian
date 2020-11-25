@@ -6,11 +6,11 @@
     <div class="inputbox">
       <div class="inputtop">
         <div class="iconfont icon-wodedangxuan"></div>
-        <input class="inpter" v-model="phone" placeholder="请输入手机号码"/>
+        <input class="inpter" v-model="phone" placeholder="输入手机号码"/>
       </div>
       <div class="inputtop">
         <div class="iconfont icon-suo"></div>
-        <input class="inpter" v-model="pwd" placeholder="请输入密码"/>
+        <input class="inpter" v-model="pwd" placeholder="输入密码"/>
       </div>
       <div class="logintext" @click="loginfn">登录</div>
       <div class="thing">
